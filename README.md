@@ -7,22 +7,25 @@
 
 ## Current status of my journey 🧗‍♂️
 Used in real projects 🔨
-- Angular
-- Ionic
-- Flutter
-- Laravel
+- Angular <!-- 200+h -->
+- Ionic <!-- 50+h -->
+- Flutter <!-- 100+h -->
+- Laravel <!-- 50+h -->
 
 Used in practice project 📖
-- ReactJs
-- GraphQL
-- MongoDB
-- ExpressJS
-- Apollo
-- SvelteJS
+- ReactJs <!-- 1h -->
+- GraphQL <!-- 3h -->
+- MongoDB <!-- 1h -->
+- ExpressJS <!-- 1h -->
+- Apollo <!-- 1h -->
+- SvelteJS <!-- 3h -->
+- Docker <!-- 6h -->
+- Node <!-- 1h -->
 
 Interest me 💡
-- NextJS
-- SvelteKit
+- NextJS <!-- 0h -->
+- SvelteKit <!-- 0h -->
+- Docker-Compose <!-- 0h -->
 
 ## Recommendations
 - [the native web GmbH](https://www.youtube.com/c/thenativewebGmbH) (German Youtube chanel for web developers)
