@@ -13,7 +13,7 @@ Used in real projects 🔨
 - Laravel <!-- 50+h -->
 
 Used in practice project 📖
-- ReactJs <!-- 1h -->
+- ReactJS <!-- 1h -->
 - GraphQL <!-- 3h -->
 - MongoDB <!-- 1h -->
 - ExpressJS <!-- 1h -->
@@ -21,11 +21,12 @@ Used in practice project 📖
 - SvelteJS <!-- 3h -->
 - Docker <!-- 6h -->
 - Node <!-- 1h -->
+- Docker-Compose <!-- 4h -->
 
 Interest me 💡
 - NextJS <!-- 0h -->
 - SvelteKit <!-- 0h -->
-- Docker-Compose <!-- 0h -->
+- Kubernetes <!-- 0h -->
 
 ## Recommendations
 - [the native web GmbH](https://www.youtube.com/c/thenativewebGmbH) (German Youtube chanel for web developers)
