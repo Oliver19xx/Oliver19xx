@@ -7,10 +7,19 @@
 
 ## Current status of my journey 🧗‍♂️
 Used in real projects 🔨
-- Angular <!-- 200+h -->
+
+- Angular <!-- ab 2019 sehr regelmäßig -->
 - Ionic <!-- 50+h -->
+- HTML <!-- ab 2013 sehr regelmäßig -->
+- CSS <!-- ab 2013 sehr regelmäßig -->
+  - SCSS <!-- ab 2019 sehr regelmäßig -->
+- JavaScript <!-- 200+h -->
+ - TypeScript <!-- ab 2019 sehr regelmäßig -->
 - Flutter <!-- 100+h -->
+- Dart <!-- 100+h -->
 - Laravel <!-- 50+h -->
+- PHP <!-- 50+h -->
+
 
 Used in practice project 📖
 - ReactJS <!-- 1h -->
@@ -22,6 +31,12 @@ Used in practice project 📖
 - Docker <!-- 6h -->
 - Node <!-- 1h -->
 - Docker-Compose <!-- 4h -->
+- TDD <!-- 4h -->
+- Java <!-- 50h -->
+- Quarkus <!-- 20h -->
+- C/C++ <!-- 50h -->
+- Python <!-- 4h -->
+- Bash <!-- 5h -->
 
 Interest me 💡
 - NextJS <!-- 0h -->
